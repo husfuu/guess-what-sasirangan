@@ -22,3 +22,7 @@ The data the collection
     - https://drive.google.com/drive/folders/1UpFHETLrw33IgwGTYFljnwmOYivDlkjU?usp=sharing
     - path: `data/Motif Sasirangan v2`
 
+
+## Data:
+- Data: https://drive.google.com/drive/folders/1UpFHETLrw33IgwGTYFljnwmOYivDlkjU?usp=sharing
+- Augmented Data: https://drive.google.com/drive/folders/15Bd81xYd86Z2tIuAqmYIKUhoMEAUZtI8?usp=sharing
